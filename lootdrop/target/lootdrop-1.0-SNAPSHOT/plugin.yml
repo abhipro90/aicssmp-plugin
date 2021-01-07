@@ -1,0 +1,7 @@
+name: AICSSMP
+version: 1.0
+main: com.pogginfloppers.lootdrop.lootdrop
+
+commands:
+  welcome:
+    usage: /welcome <user>
